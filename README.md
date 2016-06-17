@@ -1,2 +1,3 @@
-# exercicios
-Exercícios de desenvolvimento de software
+# Exercícios
+
+Exercícios propostos aos desenvolvedores Buscapé Company
