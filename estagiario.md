@@ -31,23 +31,28 @@ O objetivo desse exercício é criar esse juiz.
 
 O sistema deve receber a entrada dos dois jogadores e informar qual jogador foi o vitorioso.
 
- ## Regras
- As regras do jokenpo são bem simples. Temos dois jogadores que devem escolher entre três armas
+## Regras
 
-![A Pedra](/images/rock.png)
+As regras do jokenpo são bem simples. Temos dois jogadores que devem escolher entre três armas: 
 
-![O Papel](/images/paper.png)
+A Pedra | O Papel | A Tesoura
+------- | ------- | ---------
+![A Pedra](/images/rock.png) | ![O Papel](/images/paper.png) | ![A Tesoura](/images/scissors.png)
 
-![A Tesoura](/images/scissors.png)
 
-Cada arma tem ganha de uma outra arma e também perde de uma.
-
+Cada arma ganha e perde das outras duas escolhas, da seguinte forma:
 
 A Pedra ganha da Tesoura, mas perde do Papel
 
 A Tesoura ganha do Papel, mas perde da Pedra
 
 O Papel ganha da Pedra, mas perde da Tesoura
+
+Arma 1 | Arma 2| Vencedor
+--------- | ---------|---------
+![A Pedra](/images/rock.png)| ![O Papel](/images/paper.png)|![O Papel](/images/paper.png)
+![A Tesoura](/images/scissors.png)| ![A Pedra](/images/rock.png)|![A Pedra](/images/rock.png)
+![O Papel](/images/paper.png)| ![A Tesoura](/images/scissors.png)|![A Tesoura](/images/scissors.png)
 
 ## Entrada:
 
