@@ -39,7 +39,7 @@ LMRDDMMUU
 A saída deverá conter a coordenada final do submarino junto com sua direção, como no exemplo:
 
 ```
-1 2 -1 NORTE
+-1 2 0 NORTE
 ```
 
 
