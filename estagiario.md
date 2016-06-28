@@ -1,26 +1,26 @@
 # Teste para estagiários
 
 
-No Buscapé Company, não somos apenas empreendedores por natureza, somos também desenvolvedores por natureza
+No Buscapé Company não somos apenas empreendedores por natureza, somos também desenvolvedores por natureza
 e adoramos programar.
 
-E como parte do nosso processo de seleção pedimos para você desenvolver um aplicativo para resolver um pequeno problema que
+E como parte do nosso processo de seleção pedimos para você desenvolver um aplicativo que resolva um pequeno problema que
 nós temos.
 
 
 Mas antes, vamos a algunas considerações.
 
-* Divirta-se, esse teste foi feito acima de tudo para ser divertido
+* Divirta-se! :smile: Esse teste foi feito acima de tudo para ser divertido 
 
 * Faça na linguagem que você tenha mais familiaridade e utilize o framework desejado (aqui trabalhamos mais com Java e Spring)
 
 * Ficou com alguma dúvida? Algo não está claro? Vamos considerar a prerrogativa que você assumiu como verdadeira, só a
  adicione no seu código com um comentário ou no README.md
 
-* Testes são sempre uma ótima ideia
+* Testes são sempre uma ótima ideia :wink:
 
-Ah! Uma regra: crie um projeto no seu Github para que possamos verificar, através dos commits, o seu raciocínio para a conclusão
-do exercício.
+Ah! Uma regra: crie um projeto no seu Github para que possamos verificar o seu raciocínio para a conclusão
+do exercício, através dos commits.
 
 Boa sorte!
 
@@ -56,7 +56,7 @@ Arma 1 | Arma 2| Vencedor
 
 ## Entrada:
 
-O Juiz receberá duas linhas com entrada, a arma utilzada pelo Jogador 1 e a arma utilizada pelo Jogador 2
+O Juiz receberá duas linhas como entrada, a arma utilzada pelo Jogador 1 e a arma utilizada pelo Jogador 2
 
 ```
 PAPEL
@@ -65,7 +65,7 @@ TESOURA
 
 ## Saída:
 
-O Juiz deverá responder qual jogador foi o vencedor, o Jogador 1 ou o Jogador 2
+O Juiz deverá responder qual jogador foi o vencedor: o Jogador 1 ou o Jogador 2
 
 ```
 Jogador 2
