@@ -37,7 +37,7 @@ As regras do jokenpo são bem simples. Temos dois jogadores que devem escolher e
 
 A Pedra | O Papel | A Tesoura
 ------- | ------- | ---------
-![A Pedra](/images/rock.png) | ![O Papel](/images/paper.png) | ![A Tesoura](/images/scissors.png)
+![A Pedra](/estagiario-backend/images/rock.png) | ![O Papel](/estagiario-backend/images/paper.png) | ![A Tesoura](/estagiario-backend/images/scissors.png)
 
 
 Cada arma ganha e perde das outras duas escolhas, da seguinte forma:
@@ -50,9 +50,9 @@ O Papel ganha da Pedra, mas perde da Tesoura
 
 Arma 1 | Arma 2| Vencedor
 --------- | ---------|---------
-![A Pedra](/images/rock.png)| ![O Papel](/images/paper.png)|![O Papel](/images/paper.png)
-![A Tesoura](/images/scissors.png)| ![A Pedra](/images/rock.png)|![A Pedra](/images/rock.png)
-![O Papel](/images/paper.png)| ![A Tesoura](/images/scissors.png)|![A Tesoura](/images/scissors.png)
+![A Pedra](/estagiario-backend/images/rock.png)| ![O Papel](/estagiario-backend/images/paper.png)|![O Papel](/estagiario-backend/images/paper.png)
+![A Tesoura](/estagiario-backend/images/scissors.png)| ![A Pedra](/estagiario-backend/images/rock.png)|![A Pedra](/estagiario-backend/images/rock.png)
+![O Papel](/estagiario-backend/images/paper.png)| ![A Tesoura](/estagiario-backend/images/scissors.png)|![A Tesoura](/estagiario-backend/images/scissors.png)
 
 ## Entrada:
 
