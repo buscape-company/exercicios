@@ -40,7 +40,7 @@ var player1Turn = (function () {
  */
 function checkWin(arma1, arma2) {
     if (arma1.img == arma2.img) {
-        return "game is tied";
+        return "Game is tied";
     } else if (arma1.winTo.img == arma2.img) {
         return "Player 1 won!";
     } else {
@@ -152,4 +152,3 @@ function end(){
 }
 
 
-    
