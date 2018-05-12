@@ -119,6 +119,9 @@ function changeLabelPlayer(playerNumber){
     }
 }
 
+/**
+ * start the game
+ */
 function start() {
     var imgs = document.getElementsByClassName("weapons");
     for(var i = 0; i < imgs.length; i++){
@@ -132,6 +135,9 @@ function start() {
     changeLabelPlayer(1);
 }
 
+/**
+ * end the game
+ */
 function end(){
     var imgs = document.getElementsByClassName("weapons");
     for (var i=0; i<imgs.length; i++){
@@ -146,3 +152,4 @@ function end(){
 }
 
 
+    

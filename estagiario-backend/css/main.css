@@ -7,11 +7,10 @@
 }
 
 .weapons:hover {
-
-    border: 3px solid green;
     left: -5px;
     top: -5px; 
 }
+
 
 #showWeapons {
     position: relative;
