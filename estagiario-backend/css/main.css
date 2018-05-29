@@ -1,0 +1,77 @@
+.weapons {
+    position: relative;
+    margin: 10px;
+    border: 3px solid black;
+    -moz-outline-radius: 20px;
+    border-radius: 20px;
+}
+
+.weapons:hover {
+    left: -5px;
+    top: -5px; 
+}
+
+
+#showWeapons {
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#showWeapons > p {
+    margin: 10px;
+}
+
+.player1 {
+    color: blue;
+}
+
+.player2 {
+    color:rgb(186, 231, 62);
+}
+
+.borderP1 {
+    border-color: blue;
+}
+
+.borderP2 {
+    border-color: rgb(186, 231, 62);
+}
+
+.border-both {
+    border-top-color: blue;
+    border-left-color: blue;
+    border-right-color: rgb(186, 231, 62);
+    border-bottom-color: rgb(186, 231, 62);
+}
+
+#winner {
+    color: red;
+    visibility: hidden;
+}
+
+#start {
+    visibility: hidden;
+}
+
+#label {
+    font-size:14px;
+    position:absolute;
+    display:inline;
+    right:20px;
+    
+}
+
+#label > p{
+    color:white;
+    padding:5px;
+}
+
+.bgc1 {
+    background-color: blue;
+}
+
+.bgc2 {
+    background-color: rgb(186, 231, 62);;
+}
